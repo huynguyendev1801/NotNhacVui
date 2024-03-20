@@ -1,0 +1,1 @@
+font: 28pt \"MS Shell Dlg 2\";
